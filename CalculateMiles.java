@@ -5,6 +5,7 @@ public class calculateMiles{
 		double kilometer = sc.nextDouble();
 		double mile=1.6;
 		double distIntoKilometer= kilometer*mile;
-		System.out.print("The total miles is" +distIntoKilometer+"mile for the given "+kilometer+"km");	
+		System.out.print("The total miles is" +distIntoKilometer+"mile for the given "+kilometer+"km");
+		
     }
 }
